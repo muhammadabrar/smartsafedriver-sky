@@ -146,7 +146,7 @@ a{
     top: -8px;
     height: 100%;
     width: 100%;
-    background: #3db1ff9a;
+    background: #ff496180;
     transition: all .3s ease-out 0s;
     transform: translateZ(-1px);
   }
@@ -184,7 +184,7 @@ a{
   }
   
   .services .icon-box:hover .icon::before {
-    background: #64c1ff;
+    background: #ff5a70;
   }
   
   .services .icon-box:hover h4 a, .services .icon-box:hover p {
